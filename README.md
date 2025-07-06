@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Manual Prático de Inteligência Artificial – Interativo e Ilustrado ✨
 
-## 🚀 Introdução
+## 📒 Descrição  
+Este projeto é um e-book/apresentação visual interativa voltada para iniciantes no universo da Inteligência Artificial.  
+Ele explica, de forma acessível e didática, os conceitos fundamentais de IA, engenharia de prompt e agentes autônomos, com exemplos práticos e glossário simplificado.  
+O material também inclui imagens ilustrativas geradas por IA e foi estruturado para ser usado em slides ou PDF interativo.
 
-> Woooow! Look at this 👀
+## 🤖 Tecnologias Utilizadas  
+- **ChatGPT (OpenAI)**: geração de conteúdo textual e estruturação pedagógica  
+- **DALL·E (OpenAI)**: criação de ilustrações originais para os capítulos  
+- **Leonardo.AI**: imagens adicionais de alta qualidade com estilo flat/infográfico  
+- **Python + python-pptx**: criação automática de slides em PowerPoint  
+- **Canva (planejado)**: para montagem final com interatividade visual  
+- **PDF + Markdown**: exportação e estruturação em múltiplos formatos
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 🧐 Processo de Criação  
+1. Foi definido o escopo: criar um manual introdutório e educativo sobre IA.  
+2. Criamos o conteúdo dividido em capítulos: Introdução, IA, Engenharia de Prompt, Agentes de IA, Exemplos Práticos, Glossário e Referências.  
+3. As imagens foram geradas com Leonardo.AI e DALL·E com base em prompts específicos.  
+4. Produzimos uma versão em PDF e outra em PowerPoint com espaços reservados para imagens.  
+5. Também estruturamos todo o conteúdo em Markdown no Canvas, pronto para exportação ao Canva ou GitBook.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🚀 Resultados  
+- ✅ Documento completo em Markdown e Canvas  
+- ✅ E-book ilustrado (PDF) com imagens reais geradas por IA  
+- ✅ Apresentação PowerPoint interativa com todos os capítulos e placeholders visuais  
+- ✅ Estrutura pronta para versão final no Canva com interatividade (quiz, botões e links)  
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão  
+Criar algo educativo, visual e funcional usando IAs foi não só possível, como fluido.  
+O maior desafio foi balancear **clareza didática** com **atratividade visual**, garantindo que o conteúdo fosse acessível a qualquer pessoa, mesmo sem conhecimento prévio em tecnologia.  
+A IA ajudou em cada etapa: do texto à estética ✨.
